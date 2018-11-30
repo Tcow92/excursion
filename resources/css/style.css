@@ -17,7 +17,6 @@ h3 {
 }
 
 
-
 .header {
   font-family: verdana;
   font-weight: normal;
@@ -29,4 +28,8 @@ h3 {
 .link {
   color: aquamarine;
   font-size: 16px;
+}
+
+.copyright {
+  text-align: right;
 }
